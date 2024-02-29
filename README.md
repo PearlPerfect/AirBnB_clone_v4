@@ -167,7 +167,7 @@ David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twit
 <br>
 Joshua monday - [Github](https://github.com/Ojobumiche) / [LinkedIn](https://www.linkedin.com/in/monday-joshua-42875a21a)
 <br>
-Imo Udoh - [Github](https://github.com/PearlPerfect) / [Twitter](hhttps://twitter.com/Tech_luver)
+Imo Udoh - [Github](https://github.com/PearlPerfect) / [Twitter](https://twitter.com/Tech_luver)
 <br>
 
 Second part of Airbnb: Joann Vuong
